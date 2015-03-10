@@ -2,6 +2,6 @@
 $database = array(
 	"driver" => "mysql",
 	"host" => "localhost",
-	"username" => "user",
+	"username" => "foo",
 	"password" => "pass",
 	"database" => "new_project");
